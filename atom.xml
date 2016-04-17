@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Berbagi sedikit pengetahuan</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://midpear.github.io/"/>
+  <updated>2016-04-17T14:07:27.591Z</updated>
+  <id>http://midpear.github.io/</id>
+  
+  <author>
+    <name>Tedi Setiadi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first-post</title>
+    <link href="http://midpear.github.io/2016/04/17/first-post/"/>
+    <id>http://midpear.github.io/2016/04/17/first-post/</id>
+    <published>2016-04-17T14:06:26.000Z</published>
+    <updated>2016-04-17T14:07:27.591Z</updated>
+    
+    <content type="html">&lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://www.google.com&quot; title=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘, ‘Google’) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://www.google.com&quot; title=&quot;Google&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘, ‘Google’, {external: true}) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://www.google.com&quot; title=&quot;Google&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://ww
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
