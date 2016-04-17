@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://midpear.github.io/"/>
-  <updated>2016-04-17T14:07:27.591Z</updated>
+  <updated>2016-04-17T15:04:31.576Z</updated>
   <id>http://midpear.github.io/</id>
   
   <author>
@@ -20,16 +20,16 @@
     <link href="http://midpear.github.io/2016/04/17/first-post/"/>
     <id>http://midpear.github.io/2016/04/17/first-post/</id>
     <published>2016-04-17T14:06:26.000Z</published>
-    <updated>2016-04-17T14:07:27.591Z</updated>
+    <updated>2016-04-17T15:04:31.576Z</updated>
     
-    <content type="html">&lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://www.google.com&quot; title=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘, ‘Google’) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://www.google.com&quot; title=&quot;Google&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘, ‘Google’, {external: true}) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://www.google.com&quot; title=&quot;Google&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;title: first-post&lt;br&gt;date: 2016-04-17 21:06:26&lt;br&gt;tags:&lt;/p&gt;
+&lt;h1 id=&quot;Tes&quot;&gt;&lt;a href=&quot;#Tes&quot; class=&quot;headerlink&quot; title=&quot;Tes&quot;&gt;&lt;/a&gt;Tes&lt;/h1&gt;&lt;p&gt;–&lt;/p&gt;
+&lt;h2 id=&quot;huuy&quot;&gt;&lt;a href=&quot;#huuy&quot; class=&quot;headerlink&quot; title=&quot;huuy&quot;&gt;&lt;/a&gt;huuy&lt;/h2&gt;</content>
     
     <summary type="html">
     
-      &lt;p&gt;&amp;lt;%- link_to(‘&lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.google.com&lt;/a&gt;‘) %&amp;gt;&lt;br&gt;// &lt;a href=&quot;http://ww
+      &lt;p&gt;title: first-post&lt;br&gt;date: 2016-04-17 21:06:26&lt;br&gt;tags:&lt;/p&gt;
+&lt;h1 id=&quot;Tes&quot;&gt;&lt;a href=&quot;#Tes&quot; class=&quot;headerlink&quot; title=&quot;Tes&quot;&gt;&lt;/a&gt;Tes&lt;/h1&gt;&lt;p&gt;–&lt;/
     
     </summary>
     
