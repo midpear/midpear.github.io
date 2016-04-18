@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://midpear.github.io/"/>
-  <updated>2016-04-17T15:04:31.576Z</updated>
+  <updated>2016-04-17T23:53:46.438Z</updated>
   <id>http://midpear.github.io/</id>
   
   <author>
@@ -19,20 +19,211 @@
     <title>first-post</title>
     <link href="http://midpear.github.io/2016/04/17/first-post/"/>
     <id>http://midpear.github.io/2016/04/17/first-post/</id>
-    <published>2016-04-17T14:06:26.000Z</published>
-    <updated>2016-04-17T15:04:31.576Z</updated>
+    <published>2016-04-17T14:06:00.000Z</published>
+    <updated>2016-04-17T23:53:46.438Z</updated>
     
-    <content type="html">&lt;p&gt;title: first-post&lt;br&gt;date: 2016-04-17 21:06:26&lt;br&gt;tags:&lt;/p&gt;
-&lt;h1 id=&quot;Tes&quot;&gt;&lt;a href=&quot;#Tes&quot; class=&quot;headerlink&quot; title=&quot;Tes&quot;&gt;&lt;/a&gt;Tes&lt;/h1&gt;&lt;p&gt;–&lt;/p&gt;
-&lt;h2 id=&quot;huuy&quot;&gt;&lt;a href=&quot;#huuy&quot; class=&quot;headerlink&quot; title=&quot;huuy&quot;&gt;&lt;/a&gt;huuy&lt;/h2&gt;</content>
+    <content type="html">&lt;h1 id=&quot;Welcome-to-StackEdit&quot;&gt;&lt;a href=&quot;#Welcome-to-StackEdit&quot; class=&quot;headerlink&quot; title=&quot;Welcome to StackEdit!&quot;&gt;&lt;/a&gt;Welcome to StackEdit!&lt;/h1&gt;&lt;p&gt;Hey! I’m your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;[^stackedit]. Don’t delete me, I’m very helpful! I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class=&quot;icon-cog&quot;&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Documents&quot;&gt;&lt;a href=&quot;#Documents&quot; class=&quot;headerlink&quot; title=&quot;Documents&quot;&gt;&lt;/a&gt;Documents&lt;/h2&gt;&lt;p&gt;StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;StackEdit is accessible offline after the application has been loaded for the first time.&lt;/li&gt;
+&lt;li&gt;Your local documents are not shared between different browsers or computers.&lt;/li&gt;
+&lt;li&gt;Clearing your browser’s data may &lt;strong&gt;delete all your local documents!&lt;/strong&gt; Make sure your documents are synchronized with &lt;strong&gt;Google Drive&lt;/strong&gt; or &lt;strong&gt;Dropbox&lt;/strong&gt; (check out the &lt;a href=&quot;#synchronization&quot;&gt;&lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; Synchronization&lt;/a&gt; section).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Create-a-document&quot;&gt;&lt;a href=&quot;#Create-a-document&quot; class=&quot;headerlink&quot; title=&quot; Create a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-file&quot;&gt;&lt;/i&gt; Create a document&lt;/h4&gt;&lt;p&gt;The document panel is accessible using the &lt;i class=&quot;icon-folder-open&quot;&gt;&lt;/i&gt; button in the navigation bar. You can create a new document by clicking &lt;i class=&quot;icon-file&quot;&gt;&lt;/i&gt; &lt;strong&gt;New document&lt;/strong&gt; in the document panel.&lt;/p&gt;
+&lt;h4 id=&quot;Switch-to-another-document&quot;&gt;&lt;a href=&quot;#Switch-to-another-document&quot; class=&quot;headerlink&quot; title=&quot; Switch to another document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-folder-open&quot;&gt;&lt;/i&gt; Switch to another document&lt;/h4&gt;&lt;p&gt;All your local documents are listed in the document panel. You can switch from one to another by clicking a document in the list or you can toggle documents using &lt;kbd&gt;Ctrl+[&lt;/kbd&gt; and &lt;kbd&gt;Ctrl+]&lt;/kbd&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;Rename-a-document&quot;&gt;&lt;a href=&quot;#Rename-a-document&quot; class=&quot;headerlink&quot; title=&quot; Rename a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-pencil&quot;&gt;&lt;/i&gt; Rename a document&lt;/h4&gt;&lt;p&gt;You can rename the current document by clicking the document title in the navigation bar.&lt;/p&gt;
+&lt;h4 id=&quot;Delete-a-document&quot;&gt;&lt;a href=&quot;#Delete-a-document&quot; class=&quot;headerlink&quot; title=&quot; Delete a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-trash&quot;&gt;&lt;/i&gt; Delete a document&lt;/h4&gt;&lt;p&gt;You can delete the current document by clicking &lt;i class=&quot;icon-trash&quot;&gt;&lt;/i&gt; &lt;strong&gt;Delete document&lt;/strong&gt; in the document panel.&lt;/p&gt;
+&lt;h4 id=&quot;Export-a-document&quot;&gt;&lt;a href=&quot;#Export-a-document&quot; class=&quot;headerlink&quot; title=&quot; Export a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-hdd&quot;&gt;&lt;/i&gt; Export a document&lt;/h4&gt;&lt;p&gt;You can save the current document to a file by clicking &lt;i class=&quot;icon-hdd&quot;&gt;&lt;/i&gt; &lt;strong&gt;Export to disk&lt;/strong&gt; from the &lt;i class=&quot;icon-provider-stackedit&quot;&gt;&lt;/i&gt; menu panel.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Check out the &lt;a href=&quot;#publish-a-document&quot;&gt;&lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; Publish a document&lt;/a&gt; section for a description of the different output formats.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Synchronization&quot;&gt;&lt;a href=&quot;#Synchronization&quot; class=&quot;headerlink&quot; title=&quot;Synchronization&quot;&gt;&lt;/a&gt;Synchronization&lt;/h2&gt;&lt;p&gt;StackEdit can be combined with &lt;i class=&quot;icon-provider-gdrive&quot;&gt;&lt;/i&gt; &lt;strong&gt;Google Drive&lt;/strong&gt; and &lt;i class=&quot;icon-provider-dropbox&quot;&gt;&lt;/i&gt; &lt;strong&gt;Dropbox&lt;/strong&gt; to have your documents saved in the &lt;em&gt;Cloud&lt;/em&gt;. The synchronization mechanism takes care of uploading your modifications or downloading the latest version of your documents.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full access to &lt;strong&gt;Google Drive&lt;/strong&gt; or &lt;strong&gt;Dropbox&lt;/strong&gt; is required to be able to import any document in StackEdit. Permission restrictions can be configured in the settings.&lt;/li&gt;
+&lt;li&gt;Imported documents are downloaded in your browser and are not transmitted to a server.&lt;/li&gt;
+&lt;li&gt;If you experience problems saving your documents on Google Drive, check and optionally disable browser extensions, such as Disconnect.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Open-a-document&quot;&gt;&lt;a href=&quot;#Open-a-document&quot; class=&quot;headerlink&quot; title=&quot; Open a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; Open a document&lt;/h4&gt;&lt;p&gt;You can open a document from &lt;i class=&quot;icon-provider-gdrive&quot;&gt;&lt;/i&gt; &lt;strong&gt;Google Drive&lt;/strong&gt; or the &lt;i class=&quot;icon-provider-dropbox&quot;&gt;&lt;/i&gt; &lt;strong&gt;Dropbox&lt;/strong&gt; by opening the &lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and by clicking &lt;strong&gt;Open from…&lt;/strong&gt;. Once opened, any modification in your document will be automatically synchronized with the file in your &lt;strong&gt;Google Drive&lt;/strong&gt; / &lt;strong&gt;Dropbox&lt;/strong&gt; account.&lt;/p&gt;
+&lt;h4 id=&quot;Save-a-document&quot;&gt;&lt;a href=&quot;#Save-a-document&quot; class=&quot;headerlink&quot; title=&quot; Save a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; Save a document&lt;/h4&gt;&lt;p&gt;You can save any document by opening the &lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and by clicking &lt;strong&gt;Save on…&lt;/strong&gt;. Even if your document is already synchronized with &lt;strong&gt;Google Drive&lt;/strong&gt; or &lt;strong&gt;Dropbox&lt;/strong&gt;, you can export it to a another location. StackEdit can synchronize one document with multiple locations and accounts.&lt;/p&gt;
+&lt;h4 id=&quot;Synchronize-a-document&quot;&gt;&lt;a href=&quot;#Synchronize-a-document&quot; class=&quot;headerlink&quot; title=&quot; Synchronize a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; Synchronize a document&lt;/h4&gt;&lt;p&gt;Once your document is linked to a &lt;i class=&quot;icon-provider-gdrive&quot;&gt;&lt;/i&gt; &lt;strong&gt;Google Drive&lt;/strong&gt; or a &lt;i class=&quot;icon-provider-dropbox&quot;&gt;&lt;/i&gt; &lt;strong&gt;Dropbox&lt;/strong&gt; file, StackEdit will periodically (every 3 minutes) synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be detected.&lt;/p&gt;
+&lt;p&gt;If you just have modified your document and you want to force the synchronization, click the &lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; button in the navigation bar.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; button is disabled when you have no document to synchronize.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Manage-document-synchronization&quot;&gt;&lt;a href=&quot;#Manage-document-synchronization&quot; class=&quot;headerlink&quot; title=&quot; Manage document synchronization&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; Manage document synchronization&lt;/h4&gt;&lt;p&gt;Since one document can be synchronized with multiple locations, you can list and manage synchronized locations by clicking &lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; &lt;strong&gt;Manage synchronization&lt;/strong&gt; in the &lt;i class=&quot;icon-refresh&quot;&gt;&lt;/i&gt; &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu. This will let you remove synchronization locations that are associated to your document.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; If you delete the file from &lt;strong&gt;Google Drive&lt;/strong&gt; or from &lt;strong&gt;Dropbox&lt;/strong&gt;, the document will no longer be synchronized with that location.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Publication&quot;&gt;&lt;a href=&quot;#Publication&quot; class=&quot;headerlink&quot; title=&quot;Publication&quot;&gt;&lt;/a&gt;Publication&lt;/h2&gt;&lt;p&gt;Once you are happy with your document, you can publish it on different websites directly from StackEdit. As for now, StackEdit can publish on &lt;strong&gt;Blogger&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt;, &lt;strong&gt;Gist&lt;/strong&gt;, &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Tumblr&lt;/strong&gt;, &lt;strong&gt;WordPress&lt;/strong&gt; and on any SSH server.&lt;/p&gt;
+&lt;h4 id=&quot;Publish-a-document&quot;&gt;&lt;a href=&quot;#Publish-a-document&quot; class=&quot;headerlink&quot; title=&quot; Publish a document&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; Publish a document&lt;/h4&gt;&lt;p&gt;You can publish your document by opening the &lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; &lt;strong&gt;Publish&lt;/strong&gt; sub-menu and by choosing a website. In the dialog box, you can choose the publication format:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown, to publish the Markdown text on a website that can interpret it (&lt;strong&gt;GitHub&lt;/strong&gt; for instance),&lt;/li&gt;
+&lt;li&gt;HTML, to publish the document converted into HTML (on a blog for example),&lt;/li&gt;
+&lt;li&gt;Template, to have a full control of the output.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The default template is a simple webpage wrapping your document in HTML format. You can customize it in the &lt;strong&gt;Advanced&lt;/strong&gt; tab of the &lt;i class=&quot;icon-cog&quot;&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Update-a-publication&quot;&gt;&lt;a href=&quot;#Update-a-publication&quot; class=&quot;headerlink&quot; title=&quot; Update a publication&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; Update a publication&lt;/h4&gt;&lt;p&gt;After publishing, StackEdit will keep your document linked to that publication which makes it easy for you to update it. Once you have modified your document and you want to update your publication, click on the &lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; button in the navigation bar.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; button is disabled when your document has not been published yet.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Manage-document-publication&quot;&gt;&lt;a href=&quot;#Manage-document-publication&quot; class=&quot;headerlink&quot; title=&quot; Manage document publication&quot;&gt;&lt;/a&gt;&lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; Manage document publication&lt;/h4&gt;&lt;p&gt;Since one document can be published on multiple locations, you can list and manage publish locations by clicking &lt;i class=&quot;icon-upload&quot;&gt;&lt;/i&gt; &lt;strong&gt;Manage publication&lt;/strong&gt; in the &lt;i class=&quot;icon-provider-stackedit&quot;&gt;&lt;/i&gt; menu panel. This will let you remove publication locations that are associated to your document.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; If the file has been removed from the website or the blog, the document will no longer be published on that location.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Markdown-Extra&quot;&gt;&lt;a href=&quot;#Markdown-Extra&quot; class=&quot;headerlink&quot; title=&quot;Markdown Extra&quot;&gt;&lt;/a&gt;Markdown Extra&lt;/h2&gt;&lt;p&gt;StackEdit supports &lt;strong&gt;Markdown Extra&lt;/strong&gt;, which extends &lt;strong&gt;Markdown&lt;/strong&gt; syntax with some nice features.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; You can disable any &lt;strong&gt;Markdown Extra&lt;/strong&gt; feature in the &lt;strong&gt;Extensions&lt;/strong&gt; tab of the &lt;i class=&quot;icon-cog&quot;&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can find more information about &lt;strong&gt;Markdown&lt;/strong&gt; syntax &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot; title=&quot;Markdown&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt; and &lt;strong&gt;Markdown Extra&lt;/strong&gt; extension &lt;a href=&quot;https://github.com/jmcmanus/pagedown-extra&quot; title=&quot;Pagedown Extra&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Tables&quot;&gt;&lt;a href=&quot;#Tables&quot; class=&quot;headerlink&quot; title=&quot;Tables&quot;&gt;&lt;/a&gt;Tables&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Markdown Extra&lt;/strong&gt; has a special syntax for tables:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Computer&lt;/td&gt;
+&lt;td&gt;$1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Phone&lt;/td&gt;
+&lt;td&gt;$12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pipe&lt;/td&gt;
+&lt;td&gt;$1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You can specify column alignment with one or two colons:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Item&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;Value&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;Qty&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Computer&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;$1600&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Phone&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;$12&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Pipe&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;$1&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;234&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;Definition-Lists&quot;&gt;&lt;a href=&quot;#Definition-Lists&quot; class=&quot;headerlink&quot; title=&quot;Definition Lists&quot;&gt;&lt;/a&gt;Definition Lists&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Markdown Extra&lt;/strong&gt; has a special syntax for definition lists too:&lt;/p&gt;
+&lt;p&gt;Term 1&lt;br&gt;Term 2&lt;br&gt;:   Definition A&lt;br&gt;:   Definition B&lt;/p&gt;
+&lt;p&gt;Term 3&lt;/p&gt;
+&lt;p&gt;:   Definition C&lt;/p&gt;
+&lt;p&gt;:   Definition D&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; part of definition D
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;Fenced-code-blocks&quot;&gt;&lt;a href=&quot;#Fenced-code-blocks&quot; class=&quot;headerlink&quot; title=&quot;Fenced code blocks&quot;&gt;&lt;/a&gt;Fenced code blocks&lt;/h3&gt;&lt;p&gt;GitHub’s fenced code blocks are also supported with &lt;strong&gt;Highlight.js&lt;/strong&gt; syntax highlighting:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;// Foo&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;var bar = 0;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; To use &lt;strong&gt;Prettify&lt;/strong&gt; instead of &lt;strong&gt;Highlight.js&lt;/strong&gt;, just configure the &lt;strong&gt;Markdown Extra&lt;/strong&gt; extension in the &lt;i class=&quot;icon-cog&quot;&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can find more information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;about &lt;strong&gt;Prettify&lt;/strong&gt; syntax highlighting &lt;a href=&quot;https://code.google.com/p/google-code-prettify/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;about &lt;strong&gt;Highlight.js&lt;/strong&gt; syntax highlighting &lt;a href=&quot;http://highlightjs.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Footnotes&quot;&gt;&lt;a href=&quot;#Footnotes&quot; class=&quot;headerlink&quot; title=&quot;Footnotes&quot;&gt;&lt;/a&gt;Footnotes&lt;/h3&gt;&lt;p&gt;You can create footnotes like this[^footnote].&lt;/p&gt;
+&lt;p&gt;  [^footnote]: Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;SmartyPants&quot;&gt;&lt;a href=&quot;#SmartyPants&quot; class=&quot;headerlink&quot; title=&quot;SmartyPants&quot;&gt;&lt;/a&gt;SmartyPants&lt;/h3&gt;&lt;p&gt;SmartyPants converts ASCII punctuation characters into “smart” typographic punctuation HTML entities. For example:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;ASCII&lt;/th&gt;
+&lt;th&gt;HTML&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Single backticks&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;#39;Isn&amp;#39;t this fun?&amp;#39;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;‘Isn’t this fun?’&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Quotes&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;quot;Isn&amp;#39;t this fun?&amp;quot;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;“Isn’t this fun?”&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Dashes&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-- is en-dash, --- is em-dash&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;– is en-dash, — is em-dash&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;Table-of-contents&quot;&gt;&lt;a href=&quot;#Table-of-contents&quot; class=&quot;headerlink&quot; title=&quot;Table of contents&quot;&gt;&lt;/a&gt;Table of contents&lt;/h3&gt;&lt;p&gt;You can insert a table of contents using the marker &lt;code&gt;[TOC]&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h3 id=&quot;MathJax&quot;&gt;&lt;a href=&quot;#MathJax&quot; class=&quot;headerlink&quot; title=&quot;MathJax&quot;&gt;&lt;/a&gt;MathJax&lt;/h3&gt;&lt;p&gt;You can render &lt;em&gt;LaTeX&lt;/em&gt; mathematical expressions using &lt;strong&gt;MathJax&lt;/strong&gt;, as on &lt;a href=&quot;http://math.stackexchange.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;math.stackexchange.com&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.&lt;br&gt;$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; To make sure mathematical expressions are rendered properly on your website, include &lt;strong&gt;MathJax&lt;/strong&gt; into your template:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can find more information about &lt;strong&gt;LaTeX&lt;/strong&gt; mathematical expressions &lt;a href=&quot;http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;UML-diagrams&quot;&gt;&lt;a href=&quot;#UML-diagrams&quot; class=&quot;headerlink&quot; title=&quot;UML diagrams&quot;&gt;&lt;/a&gt;UML diagrams&lt;/h3&gt;&lt;p&gt;You can also render sequence diagrams like this:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Alice-&amp;gt;Bob: Hello Bob, how are you?&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Note right of Bob: Bob thinks&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Bob--&amp;gt;Alice: I am good thanks!&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;And flow charts like this:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;st=&amp;gt;start: Start&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;e=&amp;gt;end&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;op=&amp;gt;operation: My Operation&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;cond=&amp;gt;condition: Yes or No?&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;st-&amp;gt;op-&amp;gt;cond&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;cond(yes)-&amp;gt;e&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;cond(no)-&amp;gt;op&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can find more information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;about &lt;strong&gt;Sequence diagrams&lt;/strong&gt; syntax &lt;a href=&quot;http://bramp.github.io/js-sequence-diagrams/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;about &lt;strong&gt;Flow charts&lt;/strong&gt; syntax &lt;a href=&quot;http://adrai.github.io/flowchart.js/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Support-StackEdit&quot;&gt;&lt;a href=&quot;#Support-StackEdit&quot; class=&quot;headerlink&quot; title=&quot;Support StackEdit&quot;&gt;&lt;/a&gt;Support StackEdit&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&amp;amp;summary=true&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://cdn.monetizejs.com/resources/button-32.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  [^stackedit]: &lt;a href=&quot;https://stackedit.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;StackEdit&lt;/a&gt; is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.&lt;/p&gt;
+</content>
     
     <summary type="html">
     
-      &lt;p&gt;title: first-post&lt;br&gt;date: 2016-04-17 21:06:26&lt;br&gt;tags:&lt;/p&gt;
-&lt;h1 id=&quot;Tes&quot;&gt;&lt;a href=&quot;#Tes&quot; class=&quot;headerlink&quot; title=&quot;Tes&quot;&gt;&lt;/a&gt;Tes&lt;/h1&gt;&lt;p&gt;–&lt;/
+      &lt;h1 id=&quot;Welcome-to-StackEdit&quot;&gt;&lt;a href=&quot;#Welcome-to-StackEdit&quot; class=&quot;headerlink&quot; title=&quot;Welcome to StackEdit!&quot;&gt;&lt;/a&gt;Welcome to StackEdit!&lt;/h1
     
     </summary>
     
+    
+      <category term="test" scheme="http://midpear.github.io/tags/test/"/>
     
   </entry>
   
